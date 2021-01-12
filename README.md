@@ -1,5 +1,7 @@
 ### Hi Everyone👋
 
+![](https://komarev.com/ghpvc/?username=shivanikumari631&color=47ccb3)
+
 <!--
 **shivanikumari631/shivanikumari631** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
