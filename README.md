@@ -2,6 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=shivanikumari631&color=47ccb3)
 
+![Shivani's github stats](https://github-readme-stats.vercel.app/api?username=shivanikumari631&show_icons=true&theme=prussian)
+
+
 <!--
 **shivanikumari631/shivanikumari631** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
